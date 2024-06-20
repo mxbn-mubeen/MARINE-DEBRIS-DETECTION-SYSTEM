@@ -1,4 +1,4 @@
-# MARINE-DEBRIS-DETECTION-SYSTEM-
+# MARINE-DEBRIS-DETECTION-SYSTEM
 
 
 Marine Debris Detection System project is impressive! Let's dive into the details of each component:
