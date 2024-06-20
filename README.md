@@ -1,7 +1,7 @@
 # MARINE-DEBRIS-DETECTION-SYSTEM-
 
 
-Your Marine Debris Detection System project is impressive! Let's dive into the details of each component:
+Marine Debris Detection System project is impressive! Let's dive into the details of each component:
 
 1. **Data Preparation:**
    - The "Splitting Data" scripts are crucial for dividing your dataset into training, testing, and validation sets. Proper data splitting ensures robust model performance.
